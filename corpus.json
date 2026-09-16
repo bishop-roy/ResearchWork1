@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "NICE_NG28_001",
+    "document_id": "NICE_NG28",
+    "section": "Dietary advice",
+    "recommendation_number": "1.3.1",
+    "page": 10,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Provide individualised and ongoing nutritional advice from a healthcare professional with specific expertise and competencies in nutrition."
+  },
+  {
+    "chunk_id": "NICE_NG28_002",
+    "document_id": "NICE_NG28",
+    "section": "Dietary advice",
+    "recommendation_number": "1.3.3",
+    "page": 10,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Encourage adults with type 2 diabetes to follow the same healthy eating advice as the general population, which includes:\n\u2022 eating high-fibre, low-glycaemic-index sources of carbohydrate, such as fruit, vegetables, wholegrains and pulses\n\u2022 choosing low-fat dairy products\n\u2022 eating oily fish\n\u2022 controlling their intake of saturated and trans fatty acids."
+  },
+  {
+    "chunk_id": "NICE_NG28_003",
+    "document_id": "NICE_NG28",
+    "section": "Dietary advice",
+    "recommendation_number": "1.3.6",
+    "page": 10,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Individualise recommendations for carbohydrate and alcohol intake, and meal patterns. Make reducing the risk of hypoglycaemia a particular aim for people using insulin or an insulin secretagogue."
+  },
+  {
+    "chunk_id": "NICE_NG28_004",
+    "document_id": "NICE_NG28",
+    "section": "Dietary advice",
+    "recommendation_number": "1.3.8",
+    "page": 11,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Discourage adults with type 2 diabetes from using foods marketed specifically for people with diabetes."
+  },
+  {
+    "chunk_id": "NICE_NG28_005",
+    "document_id": "NICE_NG28",
+    "section": "Blood glucose management and HbA1c",
+    "recommendation_number": "1.5.1",
+    "page": 12,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Measure HbA1c levels in adults with type 2 diabetes every:\n\u2022 3 to 6 months (tailored to individual needs) until HbA1c is stable on unchanging therapy\n\u2022 6 months once the HbA1c level and blood glucose lowering therapy are stable."
+  },
+  {
+    "chunk_id": "NICE_NG28_006",
+    "document_id": "NICE_NG28",
+    "section": "Blood glucose management and HbA1c",
+    "recommendation_number": "1.5.7",
+    "page": 13,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "For adults whose type 2 diabetes is managed either by healthy living and diet, or healthy living and diet combined with an initial medication regimen that is not associated with hypoglycaemia (see the section on initial medicines), support them to aim for an HbA1c level of 48 mmol/mol (6.5%). For adults on a medicine associated with hypoglycaemia, support them to aim for an HbA1c level of 53 mmol/mol (7.0%). [2015, amended 2026]"
+  },
+  {
+    "chunk_id": "NICE_NG28_007",
+    "document_id": "NICE_NG28",
+    "section": "Blood glucose management and HbA1c",
+    "recommendation_number": "1.5.8",
+    "page": 13,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "In adults with type 2 diabetes, if HbA1c levels are not adequately controlled by the initial medication regimen and rise to 58 mmol/mol (7.5%) or higher:\n\u2022 reinforce advice about diet, healthy living and adherence to medicines and\n\u2022 support the person to aim for an HbA1c level of 53 mmol/mol (7.0%) and\n\u2022 intensify medicines. [2015, amended 2026]"
+  },
+  {
+    "chunk_id": "NICE_NG28_008",
+    "document_id": "NICE_NG28",
+    "section": "Initial medicines",
+    "recommendation_number": "1.13.1",
+    "page": 32,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "For adults with type 2 diabetes and no relevant comorbidity, offer:\n\u2022 modified-release metformin, and\n\u2022 an SGLT-2 inhibitor."
+  },
+  {
+    "chunk_id": "NICE_NG28_009",
+    "document_id": "NICE_NG28",
+    "section": "Initial medicines",
+    "recommendation_number": "1.13.2",
+    "page": 32,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "If metformin is contraindicated or not tolerated, offer monotherapy with an SGLT-2 inhibitor."
+  },
+  {
+    "chunk_id": "NICE_NG28_010",
+    "document_id": "NICE_NG28",
+    "section": "Cardiovascular risk",
+    "recommendation_number": "1.11.1",
+    "page": 28,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Assess the person's current cardiovascular and renal status, and risk of developing cardiovascular disease in the future. [2022, amended 2026]"
+  },
+  {
+    "chunk_id": "NICE_NG28_011",
+    "document_id": "NICE_NG28",
+    "section": "Cardiovascular risk",
+    "recommendation_number": "1.15.1",
+    "page": 45,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "For adults with type 2 diabetes and atherosclerotic cardiovascular disease, offer:\n\u2022 modified-release metformin, and\n\u2022 an SGLT-2 inhibitor, and\n\u2022 subcutaneous semaglutide (Ozempic), up to 1 mg once a week, for its cardiovascular, renal and glycaemic benefits."
+  },
+  {
+    "chunk_id": "NICE_NG28_012",
+    "document_id": "NICE_NG28",
+    "section": "Cardiovascular risk",
+    "recommendation_number": "1.45.1",
+    "page": 119,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Do not offer antiplatelet therapy (aspirin or clopidogrel) to adults with type 2 diabetes without cardiovascular disease."
+  },
+  {
+    "chunk_id": "NICE_NG28_013",
+    "document_id": "NICE_NG28",
+    "section": "Complications",
+    "recommendation_number": "1.37.1",
+    "page": 113,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Advise adults with type 2 diabetes at their annual review that:\n\u2022 they are at higher risk of periodontitis\n\u2022 if they get periodontitis, managing it can improve their blood glucose control and can reduce their risk of hyperglycaemia."
+  },
+  {
+    "chunk_id": "NICE_NG28_014",
+    "document_id": "NICE_NG28",
+    "section": "Complications",
+    "recommendation_number": "1.38.1",
+    "page": 116,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Think about a diagnosis of gastroparesis in adults with type 2 diabetes who have erratic blood glucose control or unexplained gastric bloating or vomiting, taking into account possible alternative diagnoses. [2009, amended 2015]"
+  },
+  {
+    "chunk_id": "NICE_NG28_015",
+    "document_id": "NICE_NG28",
+    "section": "Complications",
+    "recommendation_number": "1.41.1",
+    "page": 117,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "For guidance on preventing and managing foot problems in adults with type 2 diabetes, see NICE's guideline on diabetic foot problems."
+  },
+  {
+    "chunk_id": "NICE_NG28_016",
+    "document_id": "NICE_NG28",
+    "section": "Complications",
+    "recommendation_number": "1.43.1",
+    "page": 118,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "When adults are diagnosed with type 2 diabetes, refer them immediately to the local eye screening service. [2009, amended 2020]"
+  },
+  {
+    "chunk_id": "NICE_NG28_017",
+    "document_id": "NICE_NG28",
+    "section": "Monitoring",
+    "recommendation_number": "1.6.2",
+    "page": 14,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Do not routinely offer self-monitoring of capillary blood glucose levels for adults with type 2 diabetes unless:\n\u2022 the person is on insulin or\n\u2022 there is evidence of hypoglycaemic episodes or\n\u2022 the person is on oral medication that may increase their risk of hypoglycaemia while driving or operating machinery or\n\u2022 they are pregnant or are planning to become pregnant (see NICE's guideline on diabetes in pregnancy)."
+  },
+  {
+    "chunk_id": "NICE_NG28_018",
+    "document_id": "NICE_NG28",
+    "section": "Monitoring",
+    "recommendation_number": "1.7.1",
+    "page": 15,
+    "source_url": "https://www.nice.org.uk/guidance/ng28",
+    "text": "Offer intermittently scanned continuous glucose monitoring (isCGM, commonly referred to as 'flash') to adults with type 2 diabetes on multiple daily insulin injections if any of the following apply:\n\u2022 they have recurrent hypoglycaemia or severe hypoglycaemia\n\u2022 they have impaired hypoglycaemia awareness\n\u2022 they have a condition or disability (including a learning disability or cognitive impairment) that means they cannot self-monitor their blood glucose by capillary blood glucose monitoring but could use an isCGM device (or have it scanned for them)\n\u2022 they would otherwise be advised to self-measure at least 8 times a day."
+  }
+]
